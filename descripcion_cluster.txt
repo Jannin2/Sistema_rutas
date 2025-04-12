@@ -1,0 +1,21 @@
+Análisis de rutas usando agrupamiento - Aprendizaje no supervisado
+
+Este documento presenta el uso de técnicas de inteligencia artificial no supervisada para identificar patrones comunes entre distintas rutas del sistema de transporte masivo.
+
+Propósito:
+Agrupar rutas según dos factores principales:
+- El tiempo estimado del trayecto.
+- El nivel de retraso habitual.
+
+Técnica aplicada:
+Se utilizó el algoritmo K-Means para segmentar los datos en 3 grupos principales, sin etiquetas previas.
+
+Características del dataset:
+- Fuente: muestra simulada basada en el sistema de transporte propuesto.
+- Columnas clave: "Tiempo_estimado", "Retraso".
+- Se aplicó una normalización estándar a los datos para que todos tuvieran el mismo rango.
+
+Resultados:
+Las rutas quedaron clasificadas en 3 clústeres, lo cual permite entender mejor cuáles presentan problemas de tiempo o retrasos.
+
+Este análisis puede apoyar decisiones para mejorar la eficiencia del servicio.
