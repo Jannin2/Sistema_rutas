@@ -1,0 +1,8 @@
+Los datos fueron generados a partir de un sistema de transporte masivo, simulando líneas de buses y estaciones. Se incluyeron campos como línea, estación de origen, destino, tiempo estimado entre trayectos y una etiqueta binaria para indicar si hubo retraso.
+
+Variables:
+- Linea: Nombre de la línea.
+- Estacion_Origen: Nombre de la estación de partida.
+- Estacion_Destino: Nombre de la estación de llegada.
+- Tiempo_estimado: Tiempo promedio entre estaciones.
+- Retraso: 1 si hubo retraso, 0 si no.

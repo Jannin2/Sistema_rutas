@@ -1,0 +1,7 @@
+Linea,Estacion_Origen,Estacion_Destino,Tiempo_estimado,Retraso
+Linea 1,Estacion A,Estacion B,3,0
+Linea 1,Estacion B,Estacion C,5,1
+Linea 2,Estacion D,Estacion E,2,0
+Linea 2,Estacion E,Estacion F,4,1
+Linea 3,Estacion G,Estacion H,1,0
+Linea 3,Estacion H,Estacion I,6,1

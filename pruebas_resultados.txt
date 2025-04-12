@@ -1,0 +1,10 @@
+Se realizaron pruebas con el algoritmo de Árbol de Decisión. Se dividió el dataset en 70% entrenamiento y 30% prueba.
+
+Resultados:
+Precisión: 75%
+Reporte de clasificación:
+              precision    recall  f1-score   support
+           0       0.67      0.80      0.73         5
+           1       0.80      0.67      0.73         6
+
+Conclusión: el modelo es capaz de detectar retrasos con buena precisión en este conjunto de datos simulado.
